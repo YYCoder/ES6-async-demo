@@ -1,0 +1,15 @@
+{
+  "name": "es6-async-demo",
+  "version": "1.0.0",
+  "description": "ES6异步方法演示demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "node index.js"
+  },
+  "author": "Markey",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
